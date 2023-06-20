@@ -9,8 +9,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>io.github.omerosmann</groupId>
-	<artifactId>common-package</artifactId>
-	<version>0.1.0-SNAPSHOT</version>
+	<artifactId>common-package-e-commerce</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>common-package</name>
 	<description>This is a common package for microservice project.</description>
 	<properties>
